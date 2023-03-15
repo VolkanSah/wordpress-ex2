@@ -1,2 +1,1 @@
-# wordpress-ex2
-test-do not work
+# wordpress experiment
